@@ -48,11 +48,7 @@ ul, ol {
     color: crimson;
     transform: scale(1.1);
     cursor: default;
-<<<<<<< HEAD
-} 
-=======
 }
->>>>>>> 23c8785 (smth)
 
 .header-img {
     width: 100%;
@@ -83,11 +79,6 @@ ul, ol {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-<<<<<<< HEAD
-    
-=======
-
->>>>>>> 23c8785 (smth)
 }
 
 .hero-row1 h1 {
@@ -143,11 +134,7 @@ ul, ol {
     gap: 30px;
 }
 
-<<<<<<< HEAD
-.card {
-=======
 .hero-card {
->>>>>>> 23c8785 (smth)
     width: 100%;
     height: 100%;
     max-width: 315px;
@@ -157,18 +144,6 @@ ul, ol {
     padding: 39px 0 39px 38px;
     flex-direction: column;
     gap: 10px;
-<<<<<<< HEAD
-    box-shadow: 
-    0 2px 5px rgba(0,0,0,0.1),
-    0 10px 20px rgba(0,0,0,0.15);
-}
-
-.card:hover {
-    transform: scale(1.07);
-}
-
-.card img {
-=======
     box-shadow:
         0 2px 5px rgba(0, 0, 0, 0.1),
         0 10px 20px rgba(0, 0, 0, 0.15);
@@ -179,28 +154,19 @@ ul, ol {
 }
 
 .hero-card img {
->>>>>>> 23c8785 (smth)
     max-width: 48px;
     max-height: 48px;
 
 }
 
-<<<<<<< HEAD
-.card h3 {
-=======
 .hero-card h3 {
->>>>>>> 23c8785 (smth)
     font-size: 20px;
     font-weight: 700;
     line-height: 32px;
     letter-spacing: 0.1px;
 }
 
-<<<<<<< HEAD
-.card p {
-=======
 .hero-card p {
->>>>>>> 23c8785 (smth)
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -208,35 +174,18 @@ ul, ol {
     color: #737373;
 }
 
-<<<<<<< HEAD
-#card-3 {
-=======
 #hero-card-3 {
->>>>>>> 23c8785 (smth)
     background-color: #00A0C1;
     color: white;
 }
 
-<<<<<<< HEAD
-#card-3 p {
-    color: white;
-    
-=======
 #hero-card-3 p {
     color: white;
-
->>>>>>> 23c8785 (smth)
 }
 
 /* recomendation section */
 
 .rec-section {
-<<<<<<< HEAD
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    justify-content: center;
-=======
     width: 100%;
     height: 100%;
     max-width: 1050px;
@@ -246,17 +195,12 @@ ul, ol {
     justify-content: space-between;
     justify-content: center;
     margin-top: 112px;
->>>>>>> 23c8785 (smth)
 }
 
 .rec-row1 {
     width: 100%;
-<<<<<<< HEAD
-    height: 100%;
-=======
     height: 100%; 
     margin: auto;
->>>>>>> 23c8785 (smth)
     max-width: 864px;
     max-height: 107px;
     display: flex;
@@ -281,8 +225,6 @@ ul, ol {
     text-align: center;
 }
 
-<<<<<<< HEAD
-=======
 .rec-row2 {
     width: 100%;
     height: 100%;
@@ -298,16 +240,11 @@ ul, ol {
     max-width: 240px;
 }
 
->>>>>>> 23c8785 (smth)
 
 /* media */
 
 @media (min-width: 1400px) {
-<<<<<<< HEAD
-    .container{
-=======
     .container {
->>>>>>> 23c8785 (smth)
         max-width: 1200px;
     }
 
@@ -326,11 +263,7 @@ ul, ol {
         font-size: 15px;
     }
 
-<<<<<<< HEAD
-    .header{
-=======
     .header {
->>>>>>> 23c8785 (smth)
         width: 1000px;
         height: 100px;
         gap: 105px;
@@ -341,18 +274,10 @@ ul, ol {
         height: 45px;
     }
 
-<<<<<<< HEAD
-     .header-img {
-=======
     .header-img {
->>>>>>> 23c8785 (smth)
         max-width: 143px;
         max-height: 45px;
         padding-bottom: 57px;
     }
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 23c8785 (smth)
