@@ -68,7 +68,7 @@ ul,ol {
     justify-content: space-evenly;
 }
 
-.row1 {
+.hero-row1 {
     width: 1046px;
     height: 338px;
 }
@@ -82,14 +82,14 @@ ul,ol {
     
 }
 
-.row1 h1 {
+.hero-row1 h1 {
     font-size: 58px;
     font-weight: 800;
     line-height: 80px;
     letter-spacing: 0.2px;
 }
 
-.row1 h4 {
+.hero-row1 h4 {
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
@@ -128,7 +128,7 @@ ul,ol {
     color: rgba(0, 160, 193, 1);
 }
 
-.row2 {
+.hero-row2 {
     width: 1006px;
     height: 210px;
     display: flex;
@@ -182,6 +182,43 @@ ul,ol {
 
 #card-3 p {
     color: white;
+    
+}
+
+/* recomendation section */
+
+.rec-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.rec-row1 {
+    width: 100%;
+    height: 100%;
+    max-width: 864px;
+    max-height: 107px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.rec-row1 h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.rec-row1 p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    text-align: center;
 }
 
 
